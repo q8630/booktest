@@ -40,10 +40,10 @@
             }
         },
     "github": {
-      "url": "https://github.com/webChatContact/baas-v2-help"
+      "url": "https://github.com/q8630/booktest.git"
     },
     "editlink": {
-      "base": "https://github.com/webChatContact",
+      "base": "https://github.com/q8630/booktest.git",
       "label": "编辑本页面"
     },
     "baidu": {
